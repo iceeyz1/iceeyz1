@@ -17,7 +17,7 @@
 
 <!-- Short Intro -->
 <p align="center">
-  Cybersecurity • 
+  Cybersecurity • 3D Modeling • PC Configuration
   <br/>
 
 </p>
