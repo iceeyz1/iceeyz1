@@ -35,7 +35,7 @@
 ## Experience
 <div align="center" style="display:flex; gap:8px; justify-content:center; align-items:center; flex-wrap:wrap;">
   <!-- Icons -->
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" style="vertical-align:middle;" />
+ 
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" style="vertical-align:middle;" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" style="vertical-align:middle;" />
 
