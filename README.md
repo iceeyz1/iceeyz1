@@ -13,8 +13,6 @@
        src="https://komarev.com/ghpvc/?username=iceeyz1&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
-
-
 <!-- Short Intro -->
 <p align="center">
   Cybersecurity • 3D Modeling • PC Configuration
@@ -22,12 +20,10 @@
 
 </p>
 
-
-
 ---
 
 ## Projects
-
+- [refresher](https://github.com/iceeyz1/refresher) - Automatically opens a website in your browser and refreshes it a specified number of times with a custom delay.
 
 ---
 
