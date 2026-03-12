@@ -41,9 +41,7 @@
 
   <!-- Temporary text badges (centered + same height) -->
   <img src="https://img.shields.io/static/v1?label=IDA%20Pro&message=%E2%80%8B&color=111&style=for-the-badge"
-       height="40" alt="IDA Pro" style="vertical-align:middle;" />
-  <img src="https://img.shields.io/static/v1?label=FL%20Studio&message=%E2%80%8B&color=111&style=for-the-badge"
-       height="40" alt="FL Studio" style="vertical-align:middle;" />
+       height="40" alt="ComfyUI" style="vertical-align:middle;" />
 </div>
 
 
