@@ -40,6 +40,5 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="40" alt="ComfyUI" style="vertical-align:middle;" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Blender" style="vertical-align:middle;" />
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Blender" style="vertical-align:middle;" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Blender" style="vertical-align:middle;" />
 </div>
 
