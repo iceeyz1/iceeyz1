@@ -16,9 +16,8 @@
 
 
 <!-- Short Intro -->
-<h3 align="center"><strong>Hi!</strong></h3>
 <p align="center">
-  Cybersecurity
+  Cybersecurity • 
   <br/>
 
 </p>
