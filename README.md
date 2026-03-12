@@ -15,7 +15,7 @@
 
 <!-- Short Intro -->
 <p align="center">
-  Cybersecurity • 3D Modeling • PC Configuration
+  Cybersecurity • 3D Modeling • PC Configuration • Astronomy
   <br/>
 
 </p>
