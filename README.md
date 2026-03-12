@@ -41,6 +41,6 @@
 
   <!-- Temporary text badges (centered + same height) -->
   <img src="https://img.shields.io/static/v1?label=ComfyUI&message=%E2%80%8B&color=111&style=for-the-badge"
-       height="40" alt="ComfyUI" style="display:flex; gap:0px;" />
+       height="40" alt="ComfyUI" style="vertical-align:middle; gap:8px;" />
 </div>
 
