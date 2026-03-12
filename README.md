@@ -31,7 +31,6 @@
 <div align="center" style="display:flex; gap:8px; justify-content:center; align-items:center; flex-wrap:wrap;">
   <!-- Icons -->
  
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" style="vertical-align:middle;" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" style="vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="40" alt="ComfyUI" style="vertical-align:middle;" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Blender" style="vertical-align:middle;" />
