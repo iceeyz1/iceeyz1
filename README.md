@@ -9,6 +9,7 @@
     <img alt="GitHub Followers"
          src="https://img.shields.io/github/followers/iceeyz1?logo=github&style=flat-square" />
   </a>
+  
   <img alt="Profile Views"
        src="https://komarev.com/ghpvc/?username=iceeyz1&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
