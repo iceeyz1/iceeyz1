@@ -44,11 +44,3 @@
        height="40" alt="ComfyUI" style="vertical-align:middle;" />
 </div>
 
-
-
-
-
-<!-- Footer -->
-<p align="center">
-  <sub>wzrd</sub>
-</p>
