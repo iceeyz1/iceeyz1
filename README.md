@@ -30,12 +30,11 @@
 ---
 
 ## Experience
-<div align="center" style="display:flex; gap:8px; justify-content:center; align-items:center; flex-wrap:wrap;">
-  <!-- Icons -->
- 
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" style="vertical-align:middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="40" alt="ComfyUI" style="vertical-align:middle;" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Blender" style="vertical-align:middle;" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Blender" style="vertical-align:middle;" />
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=blender" height="32" style="vertical-align:middle;"> Blender &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="32" style="vertical-align:middle;"> ComfyUI &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ps" height="32" style="vertical-align:middle;"> Photoshop &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="32" style="vertical-align:middle;"> Linux
 </div>
 
