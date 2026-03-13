@@ -32,9 +32,21 @@
 ## Experience
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=blender" height="32" style="vertical-align:middle;"> Blender &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="32" style="vertical-align:middle;"> ComfyUI &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ps" height="32" style="vertical-align:middle;"> Photoshop &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" height="32" style="vertical-align:middle;"> Linux
+
+<img src="https://skillicons.dev/icons?i=blender" height="36" style="vertical-align:middle;">
+<span style="vertical-align:middle;"> | Blender</span>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="36" style="vertical-align:middle;">
+<span style="vertical-align:middle;"> | ComfyUI</span>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=ps" height="36" style="vertical-align:middle;">
+<span style="vertical-align:middle;"> | Photoshop</span>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=linux" height="36" style="vertical-align:middle;">
+<span style="vertical-align:middle;"> | Linux</span>
+
 </div>
 
