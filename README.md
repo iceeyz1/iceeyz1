@@ -33,20 +33,20 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=blender" height="36" style="vertical-align:middle;">
-<span style="vertical-align:middle;"> | Blender</span>
+<img src="https://skillicons.dev/icons?i=blender" height="36">
+<span style="position:relative; top:-3px;"> | Blender</span>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="36" style="vertical-align:middle;">
-<span style="vertical-align:middle;"> | ComfyUI</span>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="36">
+<span style="position:relative; top:-3px;"> | ComfyUI</span>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=ps" height="36" style="vertical-align:middle;">
-<span style="vertical-align:middle;"> | Photoshop</span>
+<img src="https://skillicons.dev/icons?i=ps" height="36">
+<span style="position:relative; top:-3px;"> | Photoshop</span>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=linux" height="36" style="vertical-align:middle;">
-<span style="vertical-align:middle;"> | Linux</span>
+<img src="https://skillicons.dev/icons?i=linux" height="36">
+<span style="position:relative; top:-3px;"> | Linux</span>
 
 </div>
 
