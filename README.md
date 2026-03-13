@@ -24,7 +24,7 @@
 
 ## Projects
 - [refresher](https://github.com/iceeyz1/refresher) - Automatically opens a website in your browser and refreshes it a specified number of times with a custom delay.
-- [lightweight-red](https://github.com/iceeyz1/lightweight-red/) - My Arch Linux hyprland dotfiles with a lightweight red aesthetic.
+- [lightweight-red](https://github.com/iceeyz1/lightweight-red/) - My Arch Linux Hyprland dotfiles with a lightweight red aesthetic.
 
 ---
 
