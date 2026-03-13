@@ -24,9 +24,9 @@
 ---
 
 ## Projects
-- [refresher](https://github.com/iceeyz1/refresher) | Automatically opens a website in your browser and refreshes it a specified number of times with a custom delay.
+- [refresher](https://github.com/iceeyz1/refresher) | Automatically opens a website in your browser and refreshes it a specified number of times.
 - [lightweight-red](https://github.com/iceeyz1/lightweight-red/) | My Arch Linux Hyprland dotfiles with a lightweight red aesthetic.
-- [iceeyz1.github.io](https://github.com/iceeyz1/iceeyz1.github.io) | Website with some info about me
+- [iceeyz1.github.io](https://github.com/iceeyz1/iceeyz1.github.io) | CRT Monitor Terminal website with some info about me
 
 ---
 
