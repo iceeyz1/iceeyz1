@@ -24,10 +24,10 @@
 ---
 
 ## Projects
-- [refresher](https://github.com/iceeyz1/refresher) | Automatically opens a website in your browser and refreshes it a specified number of times.
+- [fovchanger2077](https://github.com/iceeyz1/fovchanger2077) | FOV patcher for Cyberpunk 2077 using AOB scanning and an inplace code patch.
 - [lightweight-red](https://github.com/iceeyz1/lightweight-red/) | My Arch Linux Hyprland dotfiles with a lightweight red aesthetic.
 - [iceeyz1.github.io](https://github.com/iceeyz1/iceeyz1.github.io) | CRT monitor terminal website with some info about me
-- [fovchanger2077](https://github.com/iceeyz1/fovchanger2077) | FOV patcher for Cyberpunk 2077 using AOB scanning and an inplace code patch.
+- [refresher](https://github.com/iceeyz1/refresher) | Automatically opens a website in your browser and refreshes it a specified number of times.
 
 ---
 
