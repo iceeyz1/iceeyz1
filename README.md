@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=iceeyz1&fontAlign=50&fontSize=48&section=header" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=iceeyz&fontAlign=50&fontSize=48&section=header" alt="Banner" />
 </p>
 
 <!-- Quick Badges -->
