@@ -5,7 +5,6 @@
 
 <!-- Quick Badges -->
 <p align="center">
-  <a href="https://github.com/iceeyz1">
     <img alt="GitHub Followers"
          src="https://img.shields.io/github/followers/iceeyz1?logo=github&style=flat-square" />
   </a>
