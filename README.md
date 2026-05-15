@@ -14,7 +14,7 @@
 
 <!-- Short Intro -->
 <p align="center">
-  Cybersecurity • 3D-Modeling/Printing • PC Configuration • Astronomy • Image Editing
+  Cybersecurity • 3D-Modeling/Printing • Hardeare Configuration • Astronomy
 
   <br/>
 
