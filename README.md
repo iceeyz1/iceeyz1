@@ -14,7 +14,7 @@
 
 <!-- Short Intro -->
 <p align="center">
-  Cybersecurity • 3D-Modeling/Printing • Hardware Configuration • Astronomy
+  Cybersecurity • 3D-Modeling/Printing • Hardware Configuration • Astronomy • Reverse Engineering
 
   <br/>
 
