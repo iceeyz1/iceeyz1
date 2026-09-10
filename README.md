@@ -1,9 +1,7 @@
-<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=iceeyz&fontAlign=50&fontSize=48&section=header" alt="Banner" />
 </p>
 
-<!-- Quick Badges -->
 <p align="center">
     <img alt="GitHub Followers"
          src="https://img.shields.io/github/followers/iceeyz1?logo=github&style=flat-square" />
@@ -12,7 +10,6 @@
        src="https://komarev.com/ghpvc/?username=iceeyz1&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
-<!-- Short Intro -->
 <p align="center">
   Cybersecurity • 3D-Modeling/Printing • Hardware Configuration • Astronomy • Reverse Engineering
 
@@ -32,14 +29,17 @@
 
 ## Experience
 
+## Experience
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender" height="36" alt="Blender" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="36" alt="ComfyUI" />
   <img src="https://skillicons.dev/icons?i=ps" height="36" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" />
+  <img src="https://3101246880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7BOcMAWP0fQxJv6opQQC%2Fuploads%2Fgit-blob-3d917705a9110478df98482036429c5101968c37%2Ficon_pro.png?alt=media" height="36" alt="IDA Pro" />
 </p>
 
 <p align="center">
-  Blender &nbsp;&nbsp;•&nbsp;&nbsp; ComfyUI &nbsp;&nbsp;•&nbsp;&nbsp; Photoshop &nbsp;&nbsp;•&nbsp;&nbsp; Linux
+  Blender &nbsp;&nbsp;•&nbsp;&nbsp; ComfyUI &nbsp;&nbsp;•&nbsp;&nbsp; Photoshop &nbsp;&nbsp;•&nbsp;&nbsp; Linux &nbsp;&nbsp;•&nbsp;&nbsp; IDA Pro
 </p>
 
