@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/comfyui.svg" height="36" alt="ComfyUI" />
   <img src="https://skillicons.dev/icons?i=ps" height="36" alt="Photoshop" />
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" />
-  <img src="https://3101246880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7BOcMAWP0fQxJv6opQQC%2Fuploads%2Fgit-blob-3d917705a9110478df98482036429c5101968c37%2Ficon_pro.png?alt=media" height="36" alt="IDA Pro" />
+  <img src="https://3101246880-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7BOcMAWP0fQxJv6opQQC%2Fuploads%2Fgit-blob-19c4caa3041a7f5ed8b8e32b53f5a6f6042bd83a%2Ficon_teams.png?alt=media" height="36" alt="IDA Pro" />
 </p>
 
 <p align="center">
